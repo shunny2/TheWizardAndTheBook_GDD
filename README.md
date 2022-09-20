@@ -13,7 +13,7 @@
 The Wizard and The Book game was developed during the Software Engineering course conclusion project.
 Its purpose is to help elementary school children improve their knowledge of geometry in a fun way.
 
-GDD (Game Design Document) e executável do jogo The Wizard and the Book.
+This file includes the game design document (GDD) and the game executable.
 
 ## How to run
 
