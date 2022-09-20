@@ -31,4 +31,4 @@ After extracting the file, enter the extracted folder and run the game.
 
 <hr></hr>
 
-Created by Alexander Davis and Matheus Missaci.
+<p align="center">Created by <a href="https://github.com/shunny2"><b>Alexander Davis</b></a> and <a href="https://github.com/M1ssaci"><b>Matheus Missaci</b></a>.</p>
