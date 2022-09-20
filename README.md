@@ -28,3 +28,7 @@ Extract the .rar file:
 After extracting the file, enter the extracted folder and run the game.
 
 ![gif-run-game](https://user-images.githubusercontent.com/72872854/191316498-5eeaef65-fad7-4a44-a069-61b8f0eb9469.gif)
+
+<hr></hr>
+
+Created by Alexander Davis and Matheus Missaci.
